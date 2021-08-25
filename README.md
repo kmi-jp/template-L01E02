@@ -6,7 +6,7 @@ Vytvořte program `integer_input.py`, který získá uživatelem zadané celé �
 
 Situaci kdy uživatel nezadá číslo neošetřujeme. Program musí fungovat i pro záporná čísla.
 
-K řešení používejte pouze nástroje jazyka Python, které byly již představeny na seminářích.
+Pozor výstup programu je testován automaticky, proto dodržujte přesný formát výstupu a vstupu! K řešení používejte pouze nástroje jazyka Python, které byly již představeny na seminářích.
 
 ## Příklad výstupu
 ```
