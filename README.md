@@ -1,12 +1,12 @@
 # L01E02: Integer input
-Vytvořte program `integer_input.py`, který získá uživatelem zadané celé číslo (`input()`), poté na standardní výstup (`print()`) vypíše jednu znásledujících možností:
+Vytvořte program `integer_input.py`, který získá uživatelem zadané celé číslo (`input()`), poté na standardní výstup (`print()`) vypíše jednu z následujících možností:
 
 1. `Error: x has less than three digits.`: kde "x" je zadané číslo, které má méně jak 3 cifry.
 2. `Digit in the tens position is x.`: kde "x" je cifra na pozici desítek.
 
-Situaci kdy uživatel nezadá číslo neošetřujte. Program musí fungovat i pro záporná čísla.
+Situaci kdy uživatel nezadá číslo neošetřujeme. Program musí fungovat i pro záporná čísla.
 
-K řešení používejte pouze nástroje jazyka Python, které byly již představeny na seminářích!
+K řešení používejte pouze nástroje jazyka Python, které byly již představeny na seminářích.
 
 ## Příklad výstupu
 ```
