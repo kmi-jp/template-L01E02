@@ -39,3 +39,10 @@ Please enter an integer with atleast 3 digits : 1
 Error: 1 has less than three digits.
 ```
 
+## Lokální testování
+Funkčnost řešení ověříte následujícím příkazem:
+
+```bash
+pytest tests.py
+```
+
