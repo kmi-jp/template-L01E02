@@ -18,5 +18,5 @@ def test_output(script_runner, input_, output):
     ret = script_runner.run("integer_input.py", stdin=io.StringIO(str(input_)))
 
     assert ret.success
-    assert f"{output}\n" in ret.stdout
+    assert output in ret.stdout
     assert ret.stderr == ""
